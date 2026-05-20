@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/wb-core.svg" alt="@wbc-ui/core2" width="220"/>
+  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/logo/wb-core.svg" alt="@wbc-ui/core2" width="220"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://www.npmjs.com/package/@wbc-ui/core2"><img src="https://img.shields.io/npm/v/@wbc-ui/core2?color=1976D2" alt="npm"></a>
 <a href="https://www.npmjs.com/package/@wbc-ui/core2?activeTab=versions"><img src="https://img.shields.io/npm/dm/@wbc-ui/core2?color=1976D2" alt="downloads"></a>
-<a href="LICENSE"><img src="https://img.shields.io/npm/l/@wbc-ui/core2?color=blue" alt="license"></a>
+<a href="https://github.com/wbc-ui/core2/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@wbc-ui/core2?color=blue" alt="license"></a>
 <a href="https://vuejs.org"><img src="https://img.shields.io/badge/vue-2.7%2B-42b883" alt="vue"></a>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/media/hero-input-output.svg"
+  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/docs/media/hero-input-output.svg"
        alt="@wbc-ui/core2 — write &lt;WBC :item='...'&gt;, render real Material UI"
        width="780"/>
 </p>
@@ -266,7 +266,7 @@ For a longer walkthrough with worked examples, see the documentation hub at [flo
 ## ⚡ The Engine Under the Hood
 
 <p align="center">
-  <img src="docs/media/engine-flow.svg" alt="@wbc-ui/core2 rendering engine flow" width="780"/>
+  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/docs/media/engine-flow.svg" alt="@wbc-ui/core2 rendering engine flow" width="780"/>
 </p>
 
 <details>
@@ -308,7 +308,7 @@ flowchart TD
 ## 💎 Free vs Pro
 
 <p align="center">
-  <img src="docs/media/tier-badges.svg" alt="Free vs Pro" width="480"/>
+  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/docs/media/tier-badges.svg" alt="Free vs Pro" width="480"/>
 </p>
 
 > *"Free users can **bind** states. Pro users can **command** them."*

@@ -1,6 +1,6 @@
 {
   "name": "@wbc-ui/core2",
-  "version": "1.0.0-r02",
+  "version": "1.0.0-r03",
   "description": "Advanced Dynamic UI Engine for Vue 2 — Part of the @wbc-ui ecosystem",
   "author": "Wissem Boughamoura <wissemb11@gmail.com> (https://www.wi-bg.com)",
   "homepage": "https://wbc-ui.com",
@@ -30,6 +30,7 @@
     "README.md",
     "LICENSE",
     "logo/",
+    "docs/",
     "vite-plugin.mjs",
     "wbc.webpack.js"
   ],
