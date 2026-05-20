@@ -12,25 +12,24 @@
   "bugs": {
     "url": "https://github.com/wbc-ui/core2/issues"
   },
-  "main": "dist-free/core2.umd.js",
-  "module": "dist-free/core2.es.js",
+  "main": "dist/core2.umd.js",
+  "module": "dist/core2.es.js",
   "exports": {
     ".": {
-      "import": "./dist-free/core2.es.js",
-      "require": "./dist-free/core2.umd.js"
+      "import": "./dist/core2.es.js",
+      "require": "./dist/core2.umd.js"
     },
     "./vite-plugin": "./vite-plugin.mjs",
     "./vite-plugin.js": "./vite-plugin.mjs",
     "./vite-plugin.mjs": "./vite-plugin.mjs",
     "./wbc.webpack.js": "./wbc.webpack.js",
-    "./dist-free/*": "./dist-free/*"
+    "./dist/*": "./dist/*"
   },
   "files": [
-    "dist-free",
+    "dist",
     "README.md",
     "LICENSE",
     "logo/",
-    "docs/",
     "vite-plugin.mjs",
     "wbc.webpack.js"
   ],
