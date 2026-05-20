@@ -1,8 +1,8 @@
 {
   "package": "@wbc-ui/core2",
-  "version": "1.0.0-r04",
+  "version": "1.0.0-r05",
   "tier": "free",
-  "builtAt": "2026-05-20T17:48:33.532Z",
+  "builtAt": "2026-05-20T19:38:26.073Z",
   "commit": null,
   "node": "v24.15.0"
 }
