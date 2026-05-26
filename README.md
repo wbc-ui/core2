@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/logo/wb-core.svg" alt="@wbc-ui/core2" width="220"/>
+  <img src="./logo/wb-core.svg" alt="@wbc-ui/core2" width="220" style="max-width: 100%;"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/assets/hero-input-output.svg"
+  <img src="./assets/hero-input-output.svg"
        alt="@wbc-ui/core2 — write &lt;WBC :item='...'&gt;, render real Material UI"
        width="780"/>
 </p>
@@ -266,7 +266,7 @@ For a longer walkthrough with worked examples, see the documentation hub at [flo
 ## ⚡ The Engine Under the Hood
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/assets/engine-flow.svg" alt="@wbc-ui/core2 rendering engine flow" width="780"/>
+  <img src="./assets/engine-flow.svg" alt="@wbc-ui/core2 rendering engine flow" width="780"/>
 </p>
 
 <details>
@@ -308,7 +308,7 @@ flowchart TD
 ## 💎 Free vs Pro
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wbc-ui/core2/main/assets/tier-badges.svg" alt="Free vs Pro" width="480"/>
+  <img src="./assets/tier-badges.svg" alt="Free vs Pro" width="480"/>
 </p>
 
 > *"Free users can **bind** states. Pro users can **command** them."*
